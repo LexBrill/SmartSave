@@ -1,0 +1,16 @@
+{
+  "name": "savesmart",
+  "version": "1.0.0",
+  "description": "make inventories more efficient",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.0.0-beta3",
+    "jquery": "^3.0.0",
+    "popper.js": "^1.11.0"
+  }
+}
